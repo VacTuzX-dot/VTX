@@ -18,4 +18,4 @@ function updateTimestamp() {
 }
 
 updateTimestamp();
-setInterval(updateTimestamp, 100);
+setInterval(updateTimestamp, 50);
